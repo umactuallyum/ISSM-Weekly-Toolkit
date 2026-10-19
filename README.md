@@ -1,4 +1,4 @@
-# ISSM Weekly Toolkit - Windows 11 Enterprise (Moderate, Air-Gapped)
+# ISSM Weekly Toolkit 
 
 | File | What it is |
 |---|---|
